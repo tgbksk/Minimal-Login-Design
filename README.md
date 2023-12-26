@@ -1,1 +1,1 @@
-# Minimal-Login-Design
+#In this project, I used modern HTML, CSS and JavaScript to create a fully responsive login page. I used CSS Flexbox and Media queries for my responsive and minimal design, and CSS transitions for cool animation effects. This Login design is responsive on all devices!
